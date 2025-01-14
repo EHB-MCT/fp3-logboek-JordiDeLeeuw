@@ -1,6 +1,6 @@
 # Logboek
 
-**Datum:** `[13/1/2024]`  
+**Datum:**`[13/1/2024]`
 **Studentnaam:** `[Jordi De Leeuw]`  
 **Groepsnaam:** `[JPDSPY CREW]`
 
@@ -10,12 +10,13 @@
 
 _Instructie (schrijf in bullets waar je aan gewerkt hebt):_
 
-- Met heel de groep hebben we een sitemap gemaakt voor wat we als groep gingen maken en hebben we dit proberen optimaliseren
-- daarnaast hebben we ook AI toepassingen opgezocht om in te implementern
+- scrumbord
+- concept
 
 > **Activiteiten:**
 >
-> - /
+> - na de feedback van de ochtend nog heel de dag verder met de groep gebraindstormed naar nieuwe concepten.
+> - scrum bord samen met heel de groep hermaakt op basis van ons nieuwe concept
 
 ---
 
@@ -23,11 +24,11 @@ _Instructie (schrijf in bullets waar je aan gewerkt hebt):_
 
 _Instructie (1 item per dag volstaat):_
 
-> - nog niets
+- nog niets
 
 > **Nieuwe skills:**
 >
-> - We hebben geleerd hoe we een customer journey maken op Kathy haar manier
+> - breder denken: ik heb vandaag geleerd dat full projects 3 niet enkel een website kan zijn
 
 ---
 
@@ -35,11 +36,11 @@ _Instructie (1 item per dag volstaat):_
 
 _Instructie:_
 
-> - Ik voel me relatief oke aangezien ik wel denk dat we ons concept kunnen verwezenlijken
+- afhankelijk of we een go of no go krijgen vrij optimistisch OF radenloos
 
 > **Algmeeen gevoel:**
 >
-> - 🙂
+> - 😃 of 😫
 
 ---
 
