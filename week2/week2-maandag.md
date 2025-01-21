@@ -1,6 +1,6 @@
 # Logboek
 
-**Datum:** `[20/01/2024]`  
+**Datum:** `[20/01/2025]`  
 **Studentnaam:** `[Jordi De Leeuw]`  
 **Groepsnaam:** `[JPDSPY CREW]`
 
