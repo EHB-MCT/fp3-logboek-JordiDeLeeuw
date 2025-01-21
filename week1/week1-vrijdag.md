@@ -1,8 +1,8 @@
 # Logboek
 
-**Datum:** `[dd/mm/yyyy]`  
-**Studentnaam:** `[Naam]`  
-**Groepsnaam:** `[Groep]`
+**Datum:** `[17/01/2024]`  
+**Studentnaam:** `[Jordi De Leeuw]`  
+**Groepsnaam:** `[JPDSPY CREW]`
 
 ---
 
@@ -14,8 +14,7 @@
 
 
 > **Activiteiten:**  
-> - In `index.html` heb ik een overzicht van projecten toegevoegd en drie aanpassingen doorgevoerd in de CSS (voor `ul`, `li` en `.projectname`).  
-> - Samen met [naam teamgenoot] de filterfunctionaliteit in `projects.js` opgezet om alleen lopende projecten te tonen.
+> - samen met Pema heb ik in een arduino bestand geprobeerd om Kobe zijn sensor te doen werken.
 
 ---
 ## 2) Wat heb ik nieuw geleerd of voor het eerst zelf gedaan?
@@ -26,21 +25,18 @@
 
 
 > **Nieuwe skills:**  
-> - Vandaag voor het eerst een gebruikerstest opgezet in Figma en feedback verwerkt in de wireframes.  
-> - Of: Ik heb geleerd hoe ik mijn teamgenoten kan motiveren als ze vastlopen.
+> - Vandaag heb ik geleerd hoe een KY-032 Obstacle Detector Module werkt.
 
 ---
 
 ## 3) Wat is mijn gevoel over vandaag?
 
 *Instructie:*  
-- Noteer in 1 zin hoe je je voelt.  
-- Voeg een kleur of symbool toe dat je stemming weergeeft (bijv. een donderwolk bij boosheid of een happy smiley als je tevreden bent).
+- Na de feedback voel ik me wisselvallig, we hebben al vaak gehoord dat het "vaag" is maar zonder al iets te kunnen maken gaat dit denk ik zo blijven.
 
 
 > **Algmeeen gevoel:**  
-> - **"Blij"** :smiley:  
-> - **"Gefrustreerd"** :zap:
+> - 😟
 
 ---
 

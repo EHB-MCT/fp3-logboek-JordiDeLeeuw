@@ -40,7 +40,7 @@ _Instructie:_
 
 > **Algmeeen gevoel:**
 >
-> - 🧐
+> - b
 
 ---
 
